@@ -1,4 +1,4 @@
-package lab2;
+package lab3;
 
 import java.util.Iterator;
 import java.util.Scanner;
@@ -7,11 +7,11 @@ import java.util.regex.Pattern;
 
 public class Document {
     public String name;
-    public OneWayLinkedList<Link> links = new OneWayLinkedList<Link>();
+    public TwoWayUnorderedListWithHeadAndTail<Link> link;
 
     public Document(String name, Scanner scan) {
         this.name = name;
-
+        link = new TwoWayUnorderedListWithHeadAndTail<Link>();
         load(scan);
     }
 
@@ -26,8 +26,8 @@ public class Document {
                 if (correctLink(s)) {
                     String[] print = s.split("=");
                     String linkS = new String(print[1].toLowerCase());
-                    Link link = new Link(linkS.trim());
-                    links.add(link);
+                    Link linkElem = new Link(linkS.trim());
+                    link.add(linkElem);
 
                 }
 
@@ -41,19 +41,21 @@ public class Document {
         }
     }
 
-    // accepted only small letters, capitalic letter, digits nad '_' (but not on the
-    // begin)
-
     @Override
     public String toString() {
         StringBuilder linksD = new StringBuilder();
-        Iterator<Link> iter = links.iterator();
+        Iterator<Link> iter = link.iterator();
 
         while (iter.hasNext()) {
-            linksD.append("\n" + iter.next().getRef().trim());
+            linksD.append("\n" + iter.next().toString().trim());
         }
 
         return "Document: " + this.name + linksD;
+    }
+
+    public String toStringReverse() {
+        String retStr = "Document: " + name;
+        return retStr + link.toStringReverse();
     }
 
     private static boolean correctLink(String link) {

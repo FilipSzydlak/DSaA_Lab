@@ -1,4 +1,4 @@
-package lab2;
+package lab3;
 
 import java.util.Objects;
 
@@ -10,13 +10,15 @@ public class Link {
     }
 
     // in the future there will be more fields
-    public String getRef() {
+    public String toString() {
         return ref;
     }
 
     public boolean equals(Object o) {
-        if (this == o) return true;
-        if (!(o instanceof Link)) return false;
+        if (this == o)
+            return true;
+        if (!(o instanceof Link))
+            return false;
         Link link = (Link) o;
         return Objects.equals(ref, link.ref);
     }
