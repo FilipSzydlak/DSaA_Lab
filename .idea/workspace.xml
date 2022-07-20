@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de420f4b-edda-49fe-b8f4-98e08ad9fee2" name="Changes" comment="FifthCommit" />
+    <list default="true" id="de420f4b-edda-49fe-b8f4-98e08ad9fee2" name="Changes" comment="SixthCommit">
+      <change afterPath="$PROJECT_DIR$/src/lab7/Document.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab7/HashTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab7/IList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab7/IWithName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab7/Link.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab7/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,7 +85,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1658314830724</updated>
-      <workItem from="1658314831916" duration="2954000" />
+      <workItem from="1658314831916" duration="3883000" />
     </task>
     <task id="LOCAL-00001" summary="FirstLabCommit">
       <created>1658315787649</created>
@@ -114,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658317606545</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="SixthCommit">
+      <created>1658318001513</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1658318001513</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,6 +164,7 @@
     <MESSAGE value="SecondEditCommit/ThirdCommit" />
     <MESSAGE value="FourthCommit" />
     <MESSAGE value="FifthCommit" />
-    <option name="LAST_COMMIT_MESSAGE" value="FifthCommit" />
+    <MESSAGE value="SixthCommit" />
+    <option name="LAST_COMMIT_MESSAGE" value="SixthCommit" />
   </component>
 </project>
