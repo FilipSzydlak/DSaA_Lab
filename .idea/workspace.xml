@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de420f4b-edda-49fe-b8f4-98e08ad9fee2" name="Changes" comment="NinthCommit">
-      <change afterPath="$PROJECT_DIR$/src/lab10/DisjointSetDataStructure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab10/DisjointSetForest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab10/Document.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab10/Graph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab10/IWithName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab10/Link.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab10/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab11/DisjointSetDataStructure.java" afterDir="false" />
+    <list default="true" id="de420f4b-edda-49fe-b8f4-98e08ad9fee2" name="Changes" comment="TenthCommit/EleventhCommit">
+      <change afterPath="$PROJECT_DIR$/src/lab12/Automaton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab12/IStringMatcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab12/KMP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab12/LinesReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab12/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -87,7 +84,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1658314830724</updated>
-      <workItem from="1658314831916" duration="4839000" />
+      <workItem from="1658314831916" duration="5139000" />
     </task>
     <task id="LOCAL-00001" summary="FirstLabCommit">
       <created>1658315787649</created>
@@ -159,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658319411579</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="TenthCommit/EleventhCommit">
+      <created>1658319825404</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1658319825404</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,6 +202,7 @@
     <MESSAGE value="SeventhCommit" />
     <MESSAGE value="EighthCommit" />
     <MESSAGE value="NinthCommit" />
-    <option name="LAST_COMMIT_MESSAGE" value="NinthCommit" />
+    <MESSAGE value="TenthCommit/EleventhCommit" />
+    <option name="LAST_COMMIT_MESSAGE" value="TenthCommit/EleventhCommit" />
   </component>
 </project>
