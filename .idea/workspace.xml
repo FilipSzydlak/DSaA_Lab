@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de420f4b-edda-49fe-b8f4-98e08ad9fee2" name="Changes" comment="FourthCommit">
-      <change afterPath="$PROJECT_DIR$/src/lab5/Document.java" afterDir="false" />
-    </list>
+    <list default="true" id="de420f4b-edda-49fe-b8f4-98e08ad9fee2" name="Changes" comment="FifthCommit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,7 +77,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1658314830724</updated>
-      <workItem from="1658314831916" duration="2591000" />
+      <workItem from="1658314831916" duration="2954000" />
     </task>
     <task id="LOCAL-00001" summary="FirstLabCommit">
       <created>1658315787649</created>
@@ -109,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658317331081</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="FifthCommit">
+      <created>1658317606545</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1658317606545</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,6 +148,7 @@
     <MESSAGE value="SecondLabCommit" />
     <MESSAGE value="SecondEditCommit/ThirdCommit" />
     <MESSAGE value="FourthCommit" />
-    <option name="LAST_COMMIT_MESSAGE" value="FourthCommit" />
+    <MESSAGE value="FifthCommit" />
+    <option name="LAST_COMMIT_MESSAGE" value="FifthCommit" />
   </component>
 </project>
