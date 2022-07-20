@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de420f4b-edda-49fe-b8f4-98e08ad9fee2" name="Changes" comment="SecondLabCommit">
-      <change afterPath="$PROJECT_DIR$/src/lab3/Document.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab3/IList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab3/Link.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab3/TwoWayUnorderedListWithHeadAndTail.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab2/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="de420f4b-edda-49fe-b8f4-98e08ad9fee2" name="Changes" comment="SecondEditCommit/ThirdCommit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,7 +77,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1658314830724</updated>
-      <workItem from="1658314831916" duration="1966000" />
+      <workItem from="1658314831916" duration="2313000" />
     </task>
     <task id="LOCAL-00001" summary="FirstLabCommit">
       <created>1658315787649</created>
@@ -101,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658316415242</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="SecondEditCommit/ThirdCommit">
+      <created>1658317042719</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1658317042719</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,6 +132,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="FirstLabCommit" />
     <MESSAGE value="SecondLabCommit" />
-    <option name="LAST_COMMIT_MESSAGE" value="SecondLabCommit" />
+    <MESSAGE value="SecondEditCommit/ThirdCommit" />
+    <option name="LAST_COMMIT_MESSAGE" value="SecondEditCommit/ThirdCommit" />
   </component>
 </project>
